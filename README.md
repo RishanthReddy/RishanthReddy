@@ -1,12 +1,12 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHxYHvsykouctgQgicynwOe7KuxF2pWdYfQ&usqp=CAU)]
-<h1 align="center">Hi 👋, I'm Rishanth Reddy</h1>
-<h3 align="center">A passionate Business Data Professional & Manager</h3>
+<h1 align="center">Hi 👋, I'm K Rishi</h1>
+<h3 align="center">A passionate Product designer, Data Professional & Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishanthreddy&label=Profile%20views&color=0e75b6&style=flat" alt="rishanthreddy" /> </p>
 
-- 🌱 I’m currently learning **Product Management**
+- 🌱 I’m currently exploring world of **Product Development**
 
-- 💬 Ask me about **Data Analytics, Data Modeling, Data Engineering, Visualization, Business Intelligence, Data Architecture**
+- 💬 Ask me about **Analytics, Modeling, Data Engineering, Visualization, Product Management, UI, Data Architecture and more**
 
 - 📫 How to reach me **rishanthkalicheti@gmail.com**
 
